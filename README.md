@@ -1,1 +1,1 @@
-# MLP-MNIST
+# Multi-Layer Perceptron, MNIST
